@@ -27,6 +27,7 @@
 title: JAVAGO
 email: javago.cs@gmail.com
 author: javago
+remote_theme: jeffreytse/jekyll-theme-yat
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -244,6 +245,7 @@ kramdown:
   input: GFM
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
