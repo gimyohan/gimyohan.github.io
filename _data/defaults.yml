@@ -1,4 +1,4 @@
 home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
-  banner: "Your image url"
+  heading: "JAVAGO's Blog"
+  subheading: "컴퓨터공학, 기술"
+  banner: "/assets/images/banners/space_dark.png"
