@@ -2,7 +2,7 @@
 layout: post
 title: 메모리 파편화
 subtitle: 동적 파티셔닝에 따른 메모리 파편화
-categories: os
+categories: OS
 tags: ["memory"]
 ---
 
