@@ -3,7 +3,7 @@ layout: post
 title: 스택 프레임
 subtitle: 스택 프레임 내부의 구성
 excerpt_image: /assets/images/261415_thumb.png
-categories: ["OS"]
+categories: OS
 tags: ["memory", "stack"]
 ---
 
